@@ -1,2 +1,2 @@
-def sunm(a,d):
-    return a+d
+def div(a,d):
+    return a-d
